@@ -1,3 +1,8 @@
+#Parcial 2
+Demo del proyecto parcial 2
+
+#v0.1 tag
+
 # FormuT
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
