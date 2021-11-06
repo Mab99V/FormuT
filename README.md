@@ -1,15 +1,19 @@
-#Parcial 2
+## Parcial 2
 Demo del proyecto parcial 2
 
-#v0.1 tag
+## v0.1 tag
 
-# FormuT
+## FormuT
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Arquitectura de Tecnologias
+
+![arquitectura drawio](https://user-images.githubusercontent.com/71278147/140598495-3713be5c-9b47-4a0e-9e94-fb9c04002060.png)
 
 ## Code scaffolding
 
