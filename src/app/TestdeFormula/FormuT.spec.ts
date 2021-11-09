@@ -19,10 +19,10 @@ describe('FormuT', () => {
    })
 
    //prueba 3, numeros negativos por positivos
-    it('Fuerza -2 por distancia 2 = error', () => {
+    it('Fuerza -2 por distancia 2 = 0', () => {
 	    
      const result = FormuT(-2,2);
-     expect(result).toBe('error');
+     expect(result).toBe(0);
     })
 })
 
